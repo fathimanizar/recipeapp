@@ -1,0 +1,58 @@
+.nav
+{
+background: #128A85;
+background: linear-gradient(135deg, #128A85, #FFFFFF);
+
+}
+.footer
+{
+    background: #128A85;
+    background: linear-gradient(135deg, #128A85, #FFFFFF);
+    height:200px;
+}
+
+.active
+{
+    background-color: #128A85;
+}
+.card
+{
+    width:'200px';
+}
+.home-caro
+{
+    border-radius: 20px;
+    height: 500px;
+    margin-bottom: 50px;
+  
+}
+.recipe-caro{
+    border-radius: 10px;
+    height: 300px;
+}
+.frontimg
+{
+    position: relative;
+}
+.frontname
+{
+    position: absolute;
+    top: 50px;
+    left: 450px;
+font-size: 100px;
+font-family: fantasy;
+color:rgb(233, 217, 125)
+}
+.incredient
+{
+background-color: white;
+}
+.recipeclass{
+    background-color: white;
+}
+.recipecard
+{
+    box-shadow: 20px 20px 50px grey;
+}
+
+
